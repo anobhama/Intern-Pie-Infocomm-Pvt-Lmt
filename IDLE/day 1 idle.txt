@@ -1,0 +1,43 @@
+Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:20:19) [MSC v.1925 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 4+2
+6
+>>> 4-2
+2
+>>> 4/2
+2.0
+>>> 4//2
+2
+>>> 5/2
+2.5
+>>> 5//2
+2
+>>> 4*2
+8
+>>> 4**2
+16
+>>> name="Anobhama"
+>>> name
+'Anobhama'
+>>> initial="V"
+>>> initial
+'V'
+>>> name + initial
+'AnobhamaV'
+>>> name + " " +initial
+'Anobhama V'
+>>> print(name)
+Anobhama
+>>> name[:]
+'Anobhama'
+>>> name[2:]
+'obhama'
+>>> name[3:]
+'bhama'
+>>> name[0:4]
+'Anob'
+>>> name[2:5]
+'obh'
+>>> name[:5]
+'Anobh'
+>>>
