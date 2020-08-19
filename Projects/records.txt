@@ -1,0 +1,2 @@
+('anobhama ', '9876543210', 'anobhama99@gmail.com', 'female', '', 1)
+('anobhama ', '9876543210', 'anobhama99@gmail.com', 'female', '1500', 0)
